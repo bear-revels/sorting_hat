@@ -163,3 +163,4 @@ cython_debug/
 
 files/videos/*
 files/models/*
+myenv/
